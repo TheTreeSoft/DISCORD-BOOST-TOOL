@@ -46,7 +46,6 @@ The following table lists all available download options:
       <td>
         <ul>
           <li>🟢 <b><a href="https://github.com/TheTreeSoft/DiscordBoostTool/releases/latest">Stable release</a></b> (<code>DiscordBoostTool.zip</code>)</li>
-          <li>🟠 <a href="https://github.com/TheTreeSoft/DiscordBoostTool/actions/workflows/main.yml">CI build</a> (<code>DiscordBoostTool.zip</code>)</li>
         </ul>
       </td>
       <td>
@@ -55,17 +54,6 @@ The following table lists all available download options:
         </ul>
       </td>
     </tr>
-    <tr>
-      <td><b>CLI</b></td>
-      <td>
-        <ul>
-          <li>🟢 <b><a href="https://github.com/TheTreeSoft/DiscordBoostTool/releases/latest">Stable release</a></b> (<code>DiscordBoostTool.CLI.zip</code></li>
-          <li>🟠 <a href="https://github.com/TheTreeSoft/DiscordBoostTool/actions/workflows/main.yml">CI build</a> (<code>DiscordBoostTool.CLI.zip</code>)</li>
-          <li>🐋 <a href="https://hub.docker.com/r/TheTreeSoft/discordBoostTool">Docker</a> (<code>TheTreeSoft/discordBoostTool</code>)</li>
-          <li>📦 <a href="https://aur.archlinux.org/packages/discord-chat-exporter-cli">AUR</a> (<code>discord-chat-exporter-cli</code>)</li>
-          <li>📦 <a href="https://search.nixos.org/packages?query=discordBoostTool-cli">Nix</a> (<code>discordBoostTool-cli</code>)</li>
-        </ul>
-      </td>
       <td>
         <ul>
           <li>Windows <b>7</b> or higher</li>
